@@ -23,7 +23,7 @@ function countDown() {
 
   if (state.values.currentTime <= 0) {
     clearInterval(state.actions.countDownTimerId);
-    clearInterval(state.actions.timerId);
+    clearInterval(state.values.timerId);
     alert("Game Over! O seu resultado foi: " + state.values.result);
   }
 }
