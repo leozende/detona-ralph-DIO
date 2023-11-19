@@ -14,9 +14,7 @@ Um jogo simples onde o jogador deve clicar no personagem Ralph sempre que ele ap
 
 ## 🖼 Visão geral
 
-<p align="center">
-  <img src=".docs/DetonaRalphGame.png" width="1000px" height="auto"/>
-</p>
+![Game Imagem](./docs/DetonaRalphGame.png)
 
 ## 📁 Referências
 
